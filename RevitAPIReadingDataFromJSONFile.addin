@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIReadingDataFromJSONFile.dll"</Assembly>
+		
+		<AddInId>1AE1BAA1-211B-4749-82CF-297EA909E7A4</AddInId>
+		<FullClassName>RevitAPIReadingDataFromJSONFile.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение данных из файла JSON для Revit</Text>
+	</AddIn>
+</RevitAddIns>
